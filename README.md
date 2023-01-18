@@ -10,3 +10,9 @@
 - 🥰 Interested in: Painting 🎨, Music 🎧💿🎙️🎹, Ecotourism 🏞️
 - 📚 CS roadmap and [concepts](https://github.com/wildonion/cs-concepts)
 - 👔 You can see my CV in [here](https://drive.google.com/file/d/1vgp6afLuTYR-MefkDSjQ-_MnwG_CCcoA/view?usp=sharing) 
+- 🛠️ tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,python,wasm,docker,actix,vue,svelte,django,postgres,mongodb,pytorch"/>
+  </a>
+</p>
