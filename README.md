@@ -7,6 +7,7 @@
 - 🕺🏻 I'm Also a Dancer on [Instagram](https://instagram.com/_wildonion)
 - 😄 Pronouns: `wiled uh · nyn`
 - ⚡ Fun fact: I'm the wildest one! 🧅
+- 🧐 Research area: Quantum and DNA computing and Neuroscience 
 - 🥰 Interested in: Painting 🎨, Music 🎧💿🎙️🎹, Ecotourism 🏞️
 - 📚 CS roadmap and [concepts](https://github.com/wildonion/cs-concepts)
 - 👔 You can see my CV in [here](https://drive.google.com/file/d/1vgp6afLuTYR-MefkDSjQ-_MnwG_CCcoA/view?usp=sharing) 
