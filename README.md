@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on [these repos](https://github.com/stars/wildonion/lists/future-await)
 - 📫 Reach me using `iptables` :)
 - 🕺🏻 I'm Also a Dancer on [Instagram](https://instagram.com/_wildonion)
+- 🖋 Writer of [BlueRangene](https://t.me/bluerangene)
 - 😄 Pronouns: `wiled uh · nyn`
 - ⚡ Fun fact: I'm the wildest one! 🧅
 - 🧐 Research area: Brain like Artificial Intelligence using Quantum and DNA computing and Neuroscience 
