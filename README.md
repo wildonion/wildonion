@@ -16,6 +16,6 @@
 - 🛠️ Coding impossibilities using:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,python,wasm,docker,actix,vue,svelte,django,postgres,mongodb,redis,pytorch"/>
+    <img src="https://skillicons.dev/icons?i=rust,actix,python,django,wasm,docker,nodejs,vue,svelte,postgres,mongodb,redis,aws,tensorflow,pytorch&perline=8"/>
   </a>
 </p>
