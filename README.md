@@ -6,6 +6,7 @@
 - 📫 Reach me using `iptables` :)
 - 🕺🏻 I'm Also a Dancer on [Instagram](https://instagram.com/_wildonion)
 - 🖋 Writer of [BlueRangene](https://t.me/bluerangene)
+- ▶ Let me show you [1 byte of life](https://www.youtube.com/@1bol_)
 - 😄 Pronouns: `wiled uh · nyn`
 - ⚡ Fun fact: I'm the wildest one! 🧅
 - 🧐 Research area: Neuroscience and Brain like Artificial Intelligence using Quantum and DNA computing for [STEM](https://github.com/wildonion/stem)  
